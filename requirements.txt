@@ -1,6 +1,6 @@
 jupyter
 numpy==1.18.1
-cvxopt==1.2.4
+cvxopt==1.2.7
 cvxpy==1.0.24
 heapdict
 -e git+https://github.com/gauravmm/jupyter-testing.git#egg=jupyter-testing
